@@ -1,8 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
 
-const APP_LOGIN_URL = "https://social-ai-frontend-git-main-bigbrothers-projects-ebc695cf.vercel.app/login";
-const APP_REGISTER_URL = "https://social-ai-frontend-git-main-bigbrothers-projects-ebc695cf.vercel.app/register";
+const APP_LOGIN_URL = "https://social-ai-frontend-alpha.vercel.app/login";
+const APP_REGISTER_URL = "https://social-ai-frontend-alpha.vercel.app/register";
 const LIVE_DEMO_URL = "#";
 const VIDEO_REVIEW_URL = "#";
 
